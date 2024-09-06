@@ -1,0 +1,26 @@
+---
+title: "Writing Prompt 1"
+author: "Marcus Prull"
+date: "9/6/2024"
+output: html_document
+---
+
+First, describe what you consider to be one of the most ground-breaking or "disruptive" papers in your field. 
+
+I believe that the utilization of environmental DNA in aquatic systems for fish is one of the most groundbreaking and disruptive ideas in the fisheries field. It is a fairly recent discovery with the earliest uses of environmental DNA used for fisheries applications described by Jerde et al. 2011 (See full citation below). Before environmental DNA, fisheries professionals would have to resort to electrofishing, netting, etc. as indicators of whether species were present/not present, etc. However, for rare species, species that are in low abundance, or species that are not readily caught by traditional gears it was extremely non-practical to attempt to capture them. The only solution available before e-DNA was to increase the overall sampling effort. However, e-DNA has solved this problem and revolutionized the fisheries field. While environmental DNA had been utilized for the detection of species in a wide variety of other fields (birds, mammals, amphibians, etc.), Jerde et al. 2011 (to my knowledge) were the first people to demonstrate its use for fishes. 
+
+
+Citation: 
+
+Jerde, Christopher L., et al. "“Sight‐unseen” detection of rare aquatic species using environmental DNA." Conservation letters 4.2 (2011): 150-157.
+
+
+
+Next, describe the most ground-breaking or disruptive paper in your field in the past 5-10 years. Do you believe the disruptive or paradigm-shifting nature of the work in your field has declined in recent years? Why or why not?
+
+I am not aware of any truly ground-breaking or paradigm shifting work in the fisheries field over the past 5-10 years. However, one paper by Lackmann et al. 2019 did provide some fairly disruptive findings. Over the years we have utilized otoliths in the fisheries field to age fishes. It has been deemed a precise and accurate tool for this purpose. Lackmann somewhat shifted our views on this as he successfully discovered and validated that Bigmouth Buffalo could live well over 100 years old, making it the oldest known freshwater teleost fish. He validated his findings by utilizing carbon dating on Bigmouth Buffalo otoliths. While not truly paradigm shifting, his work set the stage for a re-evaluation of aging techniques as many slow growing fish may be much older than was previously thought. Should fish be older than previously described by literature, it would change how we manage for those species. 
+
+I personally feel that disruptiveness in the fisheries field has declined slightly over time. However, with the e-DNA example provided above, we are still discovering paradigm shifting work as recent as 14 years ago. I have confidence that we will continue to find paradigm shifting work in the fisheries field (even if the rate of paradigm shifting work has declined over time)
+
+Citation:
+Lackmann, Alec R., et al. "Bigmouth Buffalo Ictiobus cyprinellus sets freshwater teleost record as improved age analysis reveals centenarian longevity." Communications Biology 2.1 (2019): 197.
