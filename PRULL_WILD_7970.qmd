@@ -1,0 +1,33 @@
+---
+title: "PRULL_WILD_7970"
+format: html
+editor: visual
+---
+
+First, describe what you consider to be one of the most ground-breaking or "disruptive" papers in your field.
+
+I believe that the utilization of environmental DNA in aquatic systems for fish is one of the most groundbreaking and disruptive ideas in the fisheries field. It is a fairly recent discovery with the earliest uses of environmental DNA used for fisheries applications described by Jerde et al. 2011 (See full citation below). Before environmental DNA, fisheries professionals would have to resort to electrofishing, netting, etc. as indicators of whether species were present/not present, etc. However, for rare species, species that are in low abundance, or species that are not readily caught by traditional gears it was extremely non-practical to attempt to capture them. The only solution available before e-DNA was to increase the overall sampling effort. However, e-DNA has solved this problem and revolutionized the fisheries field. While environmental DNA had been utilized for the detection of species in a wide variety of other fields (birds, mammals, amphibians, etc.), Jerde et al. 2011 (to my knowledge) were the first people to demonstrate its use for fishes.
+
+Citation:
+
+Jerde, Christopher L., et al. ""Sight‐unseen" detection of rare aquatic species using environmental DNA." Conservation letters 4.2 (2011): 150-157.
+
+Next, describe the most ground-breaking or disruptive paper in your field in the past 5-10 years. Do you believe the disruptive or paradigm-shifting nature of the work in your field has declined in recent years? Why or why not?
+
+I am not aware of any truly ground-breaking or paradigm shifting work in the fisheries field over the past 5-10 years. However, one paper by Lackmann et al. 2019 did provide some fairly disruptive findings. Over the years we have utilized otoliths in the fisheries field to age fishes. It has been deemed a precise and accurate tool for this purpose. Lackmann somewhat shifted our views on this as he successfully discovered and validated that Bigmouth Buffalo could live well over 100 years old, making it the oldest known freshwater teleost fish. He validated his findings by utilizing carbon dating on Bigmouth Buffalo otoliths. While not truly paradigm shifting, his work set the stage for a re-evaluation of aging techniques as many slow growing fish may be much older than was previously thought. Should fish be older than previously described by literature, it would change how we manage for those species.
+
+I personally feel that disruptiveness in the fisheries field has declined slightly over time. However, with the e-DNA example provided above, we are still discovering paradigm shifting work as recent as 14 years ago. I have confidence that we will continue to find paradigm shifting work in the fisheries field (even if the rate of paradigm shifting work has declined over time)
+
+Citation:
+
+Lackmann, Alec R., et al. "Bigmouth Buffalo Ictiobus cyprinellus sets freshwater teleost record as improved age analysis reveals centenarian longevity." Communications Biology 2.1 (2019): 197.
+
+------------------------------------------------------------------------
+
+Reflect on the role of scientific computing in your discipline, particularly the use of programs, apps, and web-based tools for data analysis, management, data visualization, and communicating complex information to a broader audience. What challenges do you encounter when using these tools? Are there specific computing tools or techniques you currently use or plan to incorporate into your research?
+
+For the fisheries field we have always used high functioning statistical computing for most studies. SAS and more recently R have been the workhorses for our statistical computing needs. For spatial related studies (such as my thesis), ArcGIS and ArcGIS Pro are heavily used. Recently I learned how to use ArcGIS pro through the R interface which has made my data analysis much easier and I think that most fisheries professionals would benefit from learning how to use ArcGIS Pro through R. As far as data visualization andcommunication goes, most people in the fisheries field utilize power point presentations or posters. However, in a more public setting, fisheries professionals oftentimes use more simplified visual aids such as actual fish, pamphlets, etc.
+
+I feel like there is minimal challenges associated with simpler tools such as powerpoint, however, there are some issues/challenges associated with high processing statistical software. Firstly, the learning curve is very large, so many people often get discouraged from using programs such as R. Additionally, as R packages are updated, strings of code that once ran correctly may not work years down the road. For my research I will be heavily focused on using R, ArcGISPro through the R interface, and powerpoint. I briefly learned about Google Earth Engine as a potential spatial tool but I don't believe I have the time to learn how to use such a tool. Perhaps it would be useful in the future.
+
+------------------------------------------------------------------------
